@@ -16,7 +16,7 @@ There are two files have been uploaded into this repository.
     - If it is between 70 to 79.99, it prints “C: Please try more next time!”
     - If it is 69.99 or less, it prints “F: Unfortunately you failed!”
 - homework2output.png:
-  - This is an image which shows the sample output after executing the java file. It shows the final average grade among five grades and the letter grade along with comments.
+  - This is an image which shows the sample output after executing the java file. It shows the final average grade of the five grades and the letter grade along with comments.
 
 # Authors
 
